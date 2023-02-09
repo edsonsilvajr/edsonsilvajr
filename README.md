@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![hi-hello](https://user-images.githubusercontent.com/7295375/217938023-23c45585-a512-43ef-beac-58c207fef37a.gif)
+
+
 <!--
 **edsonsilvajr/edsonsilvajr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
